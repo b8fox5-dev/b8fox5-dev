@@ -7,7 +7,7 @@
   - [Active Directory: File Sharing](https://github.com/b8fox5-dev/Active-Directory-File-Sharing)
 
 - <b>Domain Name System</b>
-  - [DNS Practice] (https://github.com/b8fox5-dev/DNS-Practice)
+  - [DNS Practice](https://github.com/b8fox5-dev/DNS-Practice)
 
 <h2>🤳Connect with me:</h2>
 
