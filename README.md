@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/b8fox5-dev/Azure-Resource-Creation)
+  - [Active Directory: Azure Resource Creation](https://github.com/b8fox5-dev/Azure-Resource-Creation)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
