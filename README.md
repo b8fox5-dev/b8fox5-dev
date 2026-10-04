@@ -7,6 +7,8 @@
   - [Active Directory: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
+- <b>Domain Name System</b>
+  - [DNS Practice] (https://github.com/b8fox5-dev/DNS-Practice)
 
 <h2>🤳Connect with me:</h2>
 
