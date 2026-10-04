@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Active Directory: Azure Resource Creation](https://github.com/b8fox5-dev/Azure-Resource-Creation)
   - [Active Directory: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Active Directory: File Sharing](https://github.com/b8fox5-dev/Active-Directory-File-Sharing)
 
 - <b>Domain Name System</b>
   - [DNS Practice] (https://github.com/b8fox5-dev/DNS-Practice)
